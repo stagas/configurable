@@ -1,0 +1,19 @@
+{
+  "name": "configurable",
+  "version": "1.0.0",
+  "description": "fluent property setters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stagas/configurable.git"
+  },
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/configurable/issues"
+  },
+  "homepage": "https://github.com/stagas/configurable#readme"
+}
